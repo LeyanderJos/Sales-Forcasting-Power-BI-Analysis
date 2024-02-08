@@ -18,3 +18,6 @@ Through the analysis of the store sales data and the implementation of sales for
 
 https://app.powerbi.com/links/KdQoiTXmK5?ctid=258ac4e4-146a-411e-9dc8-79a9e12fd6da&pbi_source=linkShare
 
+![image](https://github.com/LeyanderJos/Sales-Forcasting-Power-BI-Analysis/assets/135812635/d3045044-37a1-44ea-86ea-f9b4652ad39d)
+
+
